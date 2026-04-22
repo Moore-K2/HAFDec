@@ -11,5 +11,7 @@ You can download the trained models using the links below.
 
 | Model             | Params | ImageNet Pretrained | Input size | Abs Rel | Sq Rel | RMSE  | RMSE log | delta < 1.25 | delta < 1.25² | delta < 1.25³ |
 |-------------------|--------|---------------------|------------|---------|--------|-------|----------|--------------|---------------|---------------|
-| HAFDec(pretrain)  |  2.5M  | yes                 | 640x192    | 0.107   | 0.774  | 4.580 | 0.183    | 0.886        | 0.962        | 0.983         |
-| HAFDec            | 2.5M   | no               | 640x192    | 0.122  | 0.926  | 4.846| 0.198   | 0.861       | 0.955        | 0.980        |
+| [HAFDec(pretrain)](通过网盘分享的文件：pretrain
+链接: https://pan.baidu.com/s/119yF3WndSO6hoqXpFuMCZQ?pwd=w6hd 提取码: w6hd)  |  2.5M  | yes                 | 640x192    | 0.107   | 0.774  | 4.580 | 0.183    | 0.886        | 0.962        | 0.983         |
+| [HAFDec](通过网盘分享的文件：train from scratch
+链接: https://pan.baidu.com/s/18U0ECsqa4ZJ9V0sfaE0x0A?pwd=uctw 提取码: uctw)            | 2.5M   | no               | 640x192    | 0.122  | 0.926  | 4.846| 0.198   | 0.861       | 0.955        | 0.980        |
