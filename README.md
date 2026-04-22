@@ -13,3 +13,7 @@ You can download the trained models using the links below.
 |-------------------|--------|---------------------|------------|---------|--------|-------|----------|--------------|---------------|---------------|
 | [HAFDec(pretrain)](https://pan.baidu.com/s/18U0ECsqa4ZJ9V0sfaE0x0A?pwd=uctw](https://pan.baidu.com/s/1_5WuWd4m9WGOQkej6Tcc-A?pwd=xrtw))  |  2.5M  | yes                 | 640x192    | 0.107   | 0.774  | 4.580 | 0.183    | 0.886        | 0.962        | 0.983         |
 | [HAFDec](https://pan.baidu.com/s/1_5WuWd4m9WGOQkej6Tcc-A?pwd=xrtw)            | 2.5M   | no               | 640x192    | 0.122  | 0.926  | 4.846| 0.198   | 0.861       | 0.955        | 0.980        |
+
+
+# Make3D Test Results
+<img width="1406" height="787" alt="image" src="https://github.com/user-attachments/assets/38acbd0f-2395-470b-8680-fe2b7f82f3b6" />
